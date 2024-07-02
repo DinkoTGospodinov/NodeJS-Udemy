@@ -1,9 +1,0 @@
-{
-    "env":{
-        "MONGO_USER":"Dinko",
-        "MONGO_PASSWORD":"JzZLZ1ndMGFluU6X",
-        "MONGO_DEFAULT_DATABASE":"Vehtosharnik",
-        "STRIPE_KEY":"sk_test_51PXe9xB2h06P6nRtrimgslXJU05QdGKziPlo6SBVNeGcIQroG8xlyz7rOZklSF3nTJtUQOu21mxRy5ZaESh9P6lu00C6bm3VWE",
-        "NODE_ENV": "production"
-    }
-}
